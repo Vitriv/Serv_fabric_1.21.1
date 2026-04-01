@@ -17,8 +17,6 @@
 - [Food & Farming](#food--farming)
 - [Items & Tools](#items--tools)
 
----
-
 ## Core
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Crash Assistant](https://modrinth.com/mod/crash-assistant)
@@ -28,6 +26,8 @@
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Indium](https://modrinth.com/mod/indium)
 - [Lithium](https://modrinth.com/mod/lithium)
+- [ModernFix](https://modrinth.com/mod/modernfix)
+- [Debugify](https://modrinth.com/mod/debugify)
 - [Chunky](https://modrinth.com/plugin/chunky)
 - [Clumps](https://modrinth.com/mod/clumps)
 - [EntityCulling](https://modrinth.com/mod/entityculling)
@@ -44,7 +44,7 @@
 - [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
 - [Jade](https://modrinth.com/mod/jade)
 - [Controlling](https://modrinth.com/mod/controlling)
-- [hoofprint](https://modrinth.com/mod/hoofprint)
+- [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4)
 - [ClientSort](https://modrinth.com/mod/clientsort)
 - [Peek](https://modrinth.com/mod/peek)
 - [Screenshot Manager Enhanced](https://modrinth.com/mod/screenshot-manager-enhanced)
@@ -99,12 +99,12 @@
 - [Surveyalot](https://modrinth.com/mod/surveyalot)
 - [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims)
 - [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)
-- [SDM Shop](https://modrinth.com/mod/sdm-shop)
 
 ## Server Administration
 - [SimpleVoiceChat Broadcast](https://modrinth.com/mod/simplevoicechat-broadcast)
 - [LuckPerms](https://modrinth.com/plugin/luckperms)
-- [Henny Essentials](https://modrinth.com/mod/henny-essentials)
+- [spark](https://modrinth.com/mod/spark)
+- [MaintenanceMode](https://modrinth.com/mod/maintenancemode)
 - [BackInv](https://modrinth.com/mod/backinv)
 - [Item Obliterator](https://modrinth.com/mod/item-obliterator)
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker)
@@ -133,6 +133,9 @@
 - [Attack Through Grass](https://modrinth.com/mod/attack-through-grass)
 - [NetherPortalFix](https://modrinth.com/mod/netherportalfix)
 - [Keybind Fix Plus](https://modrinth.com/mod/keybind-fix-plus)
+- [Penchant](https://modrinth.com/mod/penchant)
+- [Veinminer](https://modrinth.com/datapack/veinminer)
+- [Veinminer Enchantment](https://modrinth.com/datapack/veinminer-enchantment)
 - [Sit!](https://modrinth.com/mod/sit!)
 
 ## World Generation
@@ -147,6 +150,7 @@
 - [Universal Ores](https://modrinth.com/mod/universal_ores)
 - [Stellarity](https://modrinth.com/datapack/stellarity)
 - [Nullscape](https://modrinth.com/datapack/nullscape)
+- [The Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric)
 - [Let's Do WilderNature](https://modrinth.com/mod/lets-do-wildernature)
 - [Noisium](https://modrinth.com/mod/noisium)
 - [Immersive Snow](https://modrinth.com/mod/immersive-snow)
@@ -206,6 +210,7 @@
 - [Illager Invasion](https://modrinth.com/mod/illager-invasion)
 - [Variants and Ventures](https://modrinth.com/mod/variants-and-ventures)
 - [Bosses of Mass Destruction](https://modrinth.com/mod/bosses-of-mass-destruction)
+- [Champions](https://modrinth.com/mod/champions-fabric)
 - [True Ending](https://modrinth.com/datapack/true-ending)
 - [ESF](https://modrinth.com/mod/esf)
 
@@ -224,7 +229,7 @@
 
 ## Items & Tools
 - [Rechiseled](https://modrinth.com/mod/rechiseled)
-- [Trowel](https://modrinth.com/mod/trowel)
+- [Mech Trowel](https://modrinth.com/mod/mech-trowel)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Redstone Pen](https://modrinth.com/mod/redstonepen)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
