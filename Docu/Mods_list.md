@@ -235,7 +235,6 @@
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
 - [Exposure](https://modrinth.com/mod/exposure)
 - [Exposure: Polaroid](https://modrinth.com/mod/exposure-polaroid)
-- [TAC: Refabricated](https://modrinth.com/mod/tacz-refabricated)
 - [Sophi Backpacks](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port))
 - [Utility Belt](https://modrinth.com/mod/utility-belt)
 - [Heart Crystals](https://modrinth.com/mod/heart-crystals)
