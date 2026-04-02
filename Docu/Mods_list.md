@@ -33,6 +33,8 @@
 - [EntityCulling](https://modrinth.com/mod/entityculling)
 - [C2ME (Fabric)](https://modrinth.com/mod/c2me-fabric)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 
 ## UI
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
@@ -60,11 +62,14 @@
 - [Distraction Free Recipes](https://modrinth.com/mod/distraction-free-recipes)
 - [Loot Journal](https://modrinth.com/mod/loot-journal)
 - [Dead Reckoning](https://modrinth.com/mod/dead-reckoning)
+- [Colorful Hearts](https://modrinth.com/mod/colorful-hearts)
+- [Tooltip Rareness](https://modrinth.com/mod/tooltiprareness)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [BlueMap](https://modrinth.com/plugin/bluemap)
 
 ## Visual
 - [Iris](https://modrinth.com/mod/iris)
 - [Euphoria Patches](https://modrinth.com/mod/euphoria-patches)
-- [Puddles & Floods](https://modrinth.com/mod/puddles-floods)
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 - [Pommel Held Item Models](https://modrinth.com/mod/pommel-held-item-models)
 - [CameraOverhaul](https://modrinth.com/mod/cameraoverhaul)
@@ -75,20 +80,19 @@
 - [CoolRain](https://modrinth.com/mod/coolrain)
 - [2D Projectiles](https://modrinth.com/mod/twod_projectiles)
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
-- [Satin (Free Wakes)](https://modrinth.com/mod/satin-free-wakes)
+- [Wakes](https://modrinth.com/mod/wakes)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 - [Animatica](https://modrinth.com/mod/animatica)
 - [Immersive Hotbar](https://modrinth.com/mod/immersive-hotbar)
 - [Visuality](https://modrinth.com/mod/visuality)
 - [A Good Place](https://modrinth.com/mod/a-good-place)
-- [Aurae](https://modrinth.com/mod/aurae)
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 - [Eating Animation](https://modrinth.com/mod/eating-animation)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 - [First Person Model](https://modrinth.com/mod/first-person-model)
-- [Loot Beams Up](https://modrinth.com/mod/loot-beams-up)
+- [Loot Beams](https://modrinth.com/mod/lootbeams)
 - [Variants CIT](https://modrinth.com/mod/variants-cit)
-- [Origin Furs](https://modrinth.com/mod/origin-furs)
+- [ESF (Entity Sound Features)](https://modrinth.com/mod/esf)
 
 ## Multiplayer
 - [Lootr](https://modrinth.com/mod/lootr)
@@ -97,6 +101,7 @@
 - [Voice Chat Interaction](https://modrinth.com/mod/voice-chat-interaction)
 - [Hardcore Revival](https://modrinth.com/mod/hardcore-revival)
 - [Surveyalot](https://modrinth.com/mod/surveyalot)
+- [Surveystones](https://modrinth.com/mod/surveystones)
 - [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims)
 - [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)
 
@@ -104,10 +109,10 @@
 - [SimpleVoiceChat Broadcast](https://modrinth.com/mod/simplevoicechat-broadcast)
 - [LuckPerms](https://modrinth.com/plugin/luckperms)
 - [spark](https://modrinth.com/mod/spark)
-- [MaintenanceMode](https://modrinth.com/mod/maintenancemode)
+- [Maintenance Mode](https://modrinth.com/mod/maintenancemode)
+- [Compact Help Command](https://modrinth.com/mod/compact-help-command)
 - [BackInv](https://modrinth.com/mod/backinv)
 - [Item Obliterator](https://modrinth.com/mod/item-obliterator)
-- [CraftTweaker](https://modrinth.com/mod/crafttweaker)
 
 ## Quality of Life
 - [Resourcify](https://modrinth.com/mod/resourcify)
@@ -139,12 +144,16 @@
 - [Sit!](https://modrinth.com/mod/sit!)
 
 ## World Generation
+- [Terralith](https://modrinth.com/mod/terralith)
+- [Lithostitched](https://modrinth.com/mod/lithostitched)
+- [World Weaver](https://modrinth.com/mod/worldweaver)
 - [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+- [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
 - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
 - [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
-- [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
 - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+- [YUNG's Better End Island](https://modrinth.com/mod/yungs-better-end-island)
 - [Fabric Seasons](https://modrinth.com/mod/fabric-seasons)
 - [Fabric Seasons Extras](https://modrinth.com/mod/fabric-seasons-extras)
 - [Universal Ores](https://modrinth.com/mod/universal_ores)
@@ -152,24 +161,23 @@
 - [Nullscape](https://modrinth.com/datapack/nullscape)
 - [The Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric)
 - [Let's Do WilderNature](https://modrinth.com/mod/lets-do-wildernature)
-- [Noisium](https://modrinth.com/mod/noisium)
 - [Immersive Snow](https://modrinth.com/mod/immersive-snow)
 - [WFS Cave Overhaul](https://modrinth.com/mod/wfs-cave-overhaul)
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
 - [Incendium](https://modrinth.com/datapack/incendium)
+- [End Remastered](https://modrinth.com/mod/endrem)
+- [End Remastered Additions](https://modrinth.com/mod/end-remastered-additions)
 
 ## Audio
 - [Auditory (Continued)](https://modrinth.com/mod/auditory-continued)
 - [Sound](https://modrinth.com/mod/sound)
 - [AudioPlayer](https://modrinth.com/mod/audioplayer)
-- [Dynamic Surroundings (Fabric)](https://modrinth.com/mod/dynamicsurroundingsfabric)
 - [Immersive Thunder](https://modrinth.com/mod/immersivethunder)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 
 ## Building & Decoration
 - [Stoneworks](https://modrinth.com/mod/stoneworks)
 - [Better Snow Coverage](https://modrinth.com/mod/better-snow-coverage)
-- [Let's Do Furniture](https://modrinth.com/mod/lets-do-furniture/gallery)
 - [Let's Do Bakery (Farm & Charm Compat)](https://modrinth.com/mod/lets-do-bakery-farmcharm-compat)
 - [Let's Do Candlelight (Farm & Charm Compat)](https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat)
 - [Let's Do Vinery](https://modrinth.com/mod/lets-do-vinery)
@@ -212,7 +220,7 @@
 - [Bosses of Mass Destruction](https://modrinth.com/mod/bosses-of-mass-destruction)
 - [Champions](https://modrinth.com/mod/champions-fabric)
 - [True Ending](https://modrinth.com/datapack/true-ending)
-- [ESF](https://modrinth.com/mod/esf)
+- [ESF (Entity Sound Features)](https://modrinth.com/mod/esf)
 
 ## Equipment & Accessories
 - [Trinkets](https://modrinth.com/mod/trinkets)
@@ -235,8 +243,7 @@
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
 - [Exposure](https://modrinth.com/mod/exposure)
 - [Exposure: Polaroid](https://modrinth.com/mod/exposure-polaroid)
-- [Sophi Backpacks](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port))
+- [Sophisticated Backpacks (Unofficial Fabric Port)](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port))
 - [Utility Belt](https://modrinth.com/mod/utility-belt)
 - [Heart Crystals](https://modrinth.com/mod/heart-crystals)
 - [Construction Wand (Fabric)](https://modrinth.com/mod/construction-wand-fabric)
-- [AA4 Atlas](https://modrinth.com/mod/aa4-atlas/gallery)
