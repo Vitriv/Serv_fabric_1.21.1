@@ -35,6 +35,8 @@
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) **NEW**
+- [Kiwi](https://modrinth.com/mod/kiwi) **NEW**
 
 ## UI
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
@@ -66,6 +68,9 @@
 - [Tooltip Rareness](https://modrinth.com/mod/tooltiprareness)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [BlueMap](https://modrinth.com/plugin/bluemap)
+- [Overflowing Bars](https://modrinth.com/mod/overflowing-bars) **NEW**
+- [Tips Mod](https://modrinth.com/mod/tips-mod) **NEW**
+- [Satisfying Buttons](https://modrinth.com/mod/satisfying-buttons) **NEW**
 
 ## Visual
 - [Iris](https://modrinth.com/mod/iris)
@@ -93,6 +98,9 @@
 - [Loot Beams](https://modrinth.com/mod/lootbeams)
 - [Variants CIT](https://modrinth.com/mod/variants-cit)
 - [ESF (Entity Sound Features)](https://modrinth.com/mod/esf)
+- [AFK Cinematics](https://modrinth.com/mod/afk-cinematics) **NEW**
+- [Immersive Damage Indicators](https://modrinth.com/mod/immersive-damage-indicators) **NEW**
+- [Immersive Messages](https://modrinth.com/mod/immersive-messages) **NEW**
 
 ## Multiplayer
 - [Lootr](https://modrinth.com/mod/lootr)
@@ -113,6 +121,7 @@
 - [Compact Help Command](https://modrinth.com/mod/compact-help-command)
 - [BackInv](https://modrinth.com/mod/backinv)
 - [Item Obliterator](https://modrinth.com/mod/item-obliterator)
+- [Maestro](https://modrinth.com/mod/maestro) **NEW**
 
 ## Quality of Life
 - [Resourcify](https://modrinth.com/mod/resourcify)
@@ -142,6 +151,11 @@
 - [Veinminer](https://modrinth.com/datapack/veinminer)
 - [Veinminer Enchantment](https://modrinth.com/datapack/veinminer-enchantment)
 - [Sit!](https://modrinth.com/mod/sit!)
+- [Connected Glass](https://modrinth.com/mod/connected-glass) **NEW**
+- [Trash Cans](https://modrinth.com/mod/trash-cans) **NEW**
+- [Open Sesame](https://modrinth.com/mod/open-sesame) **NEW**
+- [Vanillin](https://modrinth.com/mod/vanillin) **NEW**
+- [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) **NEW**
 
 ## World Generation
 - [Terralith](https://modrinth.com/mod/terralith)
@@ -167,6 +181,8 @@
 - [Incendium](https://modrinth.com/datapack/incendium)
 - [End Remastered](https://modrinth.com/mod/endrem)
 - [End Remastered Additions](https://modrinth.com/mod/end-remastered-additions)
+- [Dense Flowers](https://modrinth.com/mod/dense-flowers) **NEW**
+- [Snow Real Magic](https://modrinth.com/mod/snow-real-magic) **NEW**
 
 ## Audio
 - [Auditory (Continued)](https://modrinth.com/mod/auditory-continued)
@@ -200,6 +216,7 @@
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Lock and Block](https://modrinth.com/mod/lockandblock)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
+- [Catalyst](https://modrinth.com/mod/catalyst) **NEW**
 
 ## Player & Movement
 - [Crawl](https://modrinth.com/mod/crawl)
@@ -213,6 +230,8 @@
 - [Extra Origins](https://modrinth.com/mod/extra-origins)
 - [AltOriginGUI](https://modrinth.com/mod/altorigingui)
 - [Everlasting Abilities](https://modrinth.com/mod/everlasting-abilities)
+- [Prickle](https://modrinth.com/mod/prickle) **NEW**
+- [Potentials](https://modrinth.com/mod/potentials) **NEW**
 
 ## Mobs & Entities
 - [Illager Invasion](https://modrinth.com/mod/illager-invasion)
@@ -221,12 +240,15 @@
 - [Champions](https://modrinth.com/mod/champions-fabric)
 - [True Ending](https://modrinth.com/datapack/true-ending)
 - [ESF (Entity Sound Features)](https://modrinth.com/mod/esf)
+- [Critters & Companions](https://modrinth.com/mod/critters-and-companions) **NEW**
+- [Stormy Spiders](https://modrinth.com/mod/stormy-spiders) **NEW**
 
 ## Equipment & Accessories
 - [Trinkets](https://modrinth.com/mod/trinkets)
 - [Accessories Compat Layer](https://modrinth.com/mod/accessories-compat-layer)
 - [Accessories](https://modrinth.com/mod/accessories)
 - [Artifacts](https://modrinth.com/mod/artifacts)
+- [Rearm](https://modrinth.com/mod/rearm) **NEW**
 
 ## Food & Farming
 - [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)
@@ -234,6 +256,9 @@
 - [Fabric Seasons Delight Compat](https://modrinth.com/mod/fabric-seasons-delight-compat)
 - [More Delight](https://modrinth.com/mod/more-delight)
 - [End's Delight](https://modrinth.com/mod/ends-delight)
+- [Frostiful](https://modrinth.com/mod/frostiful) **NEW**
+- [Thermoo](https://modrinth.com/mod/thermoo) **NEW**
+- [Thermoo Patches](https://modrinth.com/mod/thermoo-patches) **NEW**
 
 ## Items & Tools
 - [Rechiseled](https://modrinth.com/mod/rechiseled)
@@ -247,3 +272,6 @@
 - [Utility Belt](https://modrinth.com/mod/utility-belt)
 - [Heart Crystals](https://modrinth.com/mod/heart-crystals)
 - [Construction Wand (Fabric)](https://modrinth.com/mod/construction-wand-fabric)
+- [AA4 Atlas](https://modrinth.com/mod/aa4-atlas/gallery)
+- [Scorchful](https://modrinth.com/mod/scorchful) **NEW**
+- [MCQoY](https://modrinth.com/mod/mcqoy) **NEW**
